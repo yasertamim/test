@@ -1,5 +1,6 @@
-for i in range(1,11):
-    print(i,end=' ')
+#i have replaced the variable name
+for j in range(1,11):
+    print(j,end=' ')
 print("\n")
 for j in range(2,22,2):
     print(j,end=' ')
@@ -22,5 +23,3 @@ for Number in range (1, 101):
 
     if (count == 0 and Number != 1):
         print(" %d" %Number, end = '')
-
-
